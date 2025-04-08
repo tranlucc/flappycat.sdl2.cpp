@@ -1,0 +1,70 @@
+⏳ FlappyCat Development Timeline
+🧱 Tuần 1: Chuẩn bị nền móng
+
+ Cài đặt môi trường lập trình (Code::Blocks, SDL2, v.v.)
+
+ Tạo project FlappyCat, cấu trúc thư mục: src/, res/, bin/
+
+ Hiển thị cửa sổ game (window, renderer)
+
+ Load và hiển thị background đơn giản (background.png)
+
+ Vẽ mèo tĩnh ở giữa màn hình
+
+🎯 Kết quả: Game hiển thị giao diện nền + mèo. Không có chuyển động.
+
+🐱 Tuần 2: Xử lý chuyển động nhân vật
+
+ Tạo class Cat với các thuộc tính: vị trí, vận tốc, trạng thái
+
+ Thêm trọng lực và xử lý rơi tự do
+
+ Xử lý nhấn phím (space) để mèo nhảy lên
+
+ Giới hạn mèo không bay khỏi màn hình
+
+🎯 Kết quả: Mèo có thể nhảy và rơi như Flappy Bird.
+
+🧱 Tuần 3: Xử lý gameplay – pipe, va chạm, điểm
+
+ Tạo class Pipe, sinh ống ngẫu nhiên theo cặp
+
+ Cho ống di chuyển về bên trái
+
+ Kiểm tra va chạm giữa mèo và ống
+
+ Cộng điểm mỗi khi mèo vượt qua 1 cặp ống
+
+🎯 Kết quả: Game có ống, gameplay cơ bản hoàn thiện.
+
+🌍 Tuần 4: Thêm nền đất và trạng thái game
+
+ Tạo class Land – đất chạy liên tục
+
+ Kiểm tra va chạm với đất (thua nếu mèo chạm đất)
+
+ Tạo các trạng thái game: menu, playing, game over
+
+ Cho phép restart game khi thua
+
+🎯 Kết quả: Game có thể chơi và reset hoàn chỉnh.
+
+🎵 Tuần 5: Thêm âm thanh và hiệu ứng
+
+ Thêm SDL_mixer, xử lý jump.wav, bonk.wav
+
+ Phát âm thanh khi nhảy, va chạm
+
+ Có thể mute/unmute âm thanh
+
+🎯 Kết quả: Game sống động hơn rất nhiều!
+
+🧠 Tuần 6: Điểm số và UI
+
+ Load ảnh số và vẽ điểm (0.png - 9.png)
+
+ Lưu và hiển thị Best Score từ file bestScore.txt
+
+ Hiển thị giao diện Pause, Replay, Resume
+
+🎯 Kết quả: Trải nghiệm người chơi hoàn thiện hơn.
