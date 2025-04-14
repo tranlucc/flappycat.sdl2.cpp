@@ -94,10 +94,9 @@ MB Bank: 0982402355
 ##😎Team 3
 
 Những người làm game này:
-Nhóm 3: Trần Bá Lực - 23021418
-
-               Vũ Đình Huy - 23021408
-
-              Trần Tuấn Minh - 23021422
+Nhóm 3:
+Trần Bá Lực - 23021418
+Vũ Đình Huy - 23021408
+Trần Tuấn Minh - 23021422
 
 From K68-SAE
