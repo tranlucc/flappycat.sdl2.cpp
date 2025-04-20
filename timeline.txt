@@ -5,6 +5,8 @@
 
  Tạo project FlappyCat, cấu trúc thư mục: src/, res/, bin/
 
+Tìm kiếm tài nguyên game (hình ảnh, âm thanh, ... )
+
  Hiển thị cửa sổ game (window, renderer)
 
  Load và hiển thị background đơn giản (background.png)
