@@ -34,8 +34,6 @@
 
 - Mở `flappycat.cbp`
 - Build & Run
-- Copy các DLL và folder `res/` đến chung thư mục với .exe
-
 ---
 
 ## 📂 Cấu trúc dự án
@@ -69,7 +67,7 @@ flappycat/
 
 ## 💼 Giấy phép
 
-Dự án này chệ yêu cầu phi thương mại và học tập, có thể sử dụng tự do.
+Dự án này phi thương mại và chỉ phục vụ cho việc học tập, có thể sử dụng tự do.
 
 ---
 
